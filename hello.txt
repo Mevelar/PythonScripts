@@ -1,2 +1,1 @@
-Testing repository. 
-Added new text on another line
+Testing repository.
